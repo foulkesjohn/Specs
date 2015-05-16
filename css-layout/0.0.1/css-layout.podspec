@@ -9,5 +9,5 @@ Pod::Spec.new do |s|
   s.license      = "BSD"
   s.author       = "Facebook"
   s.source       = { :git => "https://github.com/foulkesjohn/css-layout.git", :tag => "0.0.1" }
-  s.source_files  = "src/*.{h,m}"
+  s.source_files  = "src/*.{h,m,c}"
 end
